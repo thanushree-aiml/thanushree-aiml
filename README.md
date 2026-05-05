@@ -40,11 +40,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ---
-
-##  Connect With Me
-- LinkedIn:
-thanushree879@gmail.comyour email here
-
----
-
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
