@@ -103,8 +103,6 @@ I am actively seeking internship and entry-level opportunities where I can apply
 
 ## Connect
 
-GitHub: https://github.com/yourusername
+LinkedIn: https://www.linkedin.com/in/thanushree-v-n
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin
-
-Email: your.email@example.com
+Email: thanushree879@gmail.com
